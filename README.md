@@ -5,4 +5,4 @@ A script which creates a Word document using python-docx 0.8.6 and inserts a set
 * Adds custom Captions to pictures
 * Creates Links to pictures!
 
-![]readme/word_snap.png
+![](readme/word_snap.png)
